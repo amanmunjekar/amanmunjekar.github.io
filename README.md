@@ -21,3 +21,6 @@ Here i have created my official website that can i use in resume .
 # Quotes page
 
 ![Screenshot 2023-07-27 133201](https://github.com/amanmunjekar/amanmunjekar.github.io/assets/104617920/df693293-6d7c-43ac-8d63-fa97a784bd74)
+
+#b Resume Page 
+![Screenshot 2023-07-27 133232](https://github.com/amanmunjekar/amanmunjekar.github.io/assets/104617920/3d13dac0-e470-464d-ab5d-446571cbd620)
