@@ -17,3 +17,7 @@ Here i have created my official website that can i use in resume .
 # Poetry Page
 
 ![Screenshot 2023-07-27 133109](https://github.com/amanmunjekar/amanmunjekar.github.io/assets/104617920/60d52e93-1b76-40bc-b59b-cab0ab372fed)
+
+# Quotes page
+
+![Screenshot 2023-07-27 133201](https://github.com/amanmunjekar/amanmunjekar.github.io/assets/104617920/df693293-6d7c-43ac-8d63-fa97a784bd74)
